@@ -10,16 +10,25 @@
 <p align="center">
   <a href="https://perpperqaq.github.io/moontide-demo/">个人网站 ↗</a>
   &nbsp;·&nbsp;
+  <a href="https://perpperqaq.github.io/AIPM-QAQPM-Skills/">QAQPM 架构与指南 ↗</a>
+  &nbsp;·&nbsp;
   <a href="#公众号文章">公众号「胡椒QAQ」 ↗</a>
   &nbsp;·&nbsp;
   <a href="mailto:1041415195@qq.com">联系我 ↗</a>
 </p>
 
+## QAQPM · AI 产品全流程 Skill
+
+面向 AI 产品经理的 **17 个可组合 Agent Skill 体系**（总控 + 主链 12 站 + Agent / RAG / AIGC 三专题 + 跨站技术难题梳理 + 84 份独立模板），用证据三分法、双层交接协议、前置评测与双轨 PRD 把想法衔接到真实开发交付。
+
+- **[在线架构与使用指南 ↗](https://perpperqaq.github.io/AIPM-QAQPM-Skills/)** — 交互式四层架构图、六套底层机制、17 站执行指南、实战协作闭环与模板库
+- **[Skill 源码仓库](https://github.com/PerpperQAQ/AIPM-QAQPM-Skills)** · **[S10 开发流程仓库](https://github.com/PerpperQAQ/QAQPMskill-idea-to-launch-kit)**
+
 ## 技能
 
 **产品方法**　[问题定义](https://github.com/PerpperQAQ/AIPM-QAQPM-Skills) · [需求拆解](https://github.com/PerpperQAQ/AIPM-QAQPM-Skills) · [竞品分析](https://github.com/PerpperQAQ/AIPM-QAQPM-Skills) · [PRD](https://github.com/PerpperQAQ/AIPM-QAQPM-Skills) · [评测设计](https://github.com/PerpperQAQ/AIPM-QAQPM-Skills)
 
-**Skill / 工作流**　[Skill 设计](https://github.com/PerpperQAQ/AIPM-QAQPM-Skills) · [工作流编排](https://github.com/PerpperQAQ/vibe-coding-review)
+**Skill / 工作流**　[QAQPM 介绍页](https://perpperqaq.github.io/AIPM-QAQPM-Skills/) · [Skill 设计](https://github.com/PerpperQAQ/AIPM-QAQPM-Skills) · [工作流编排](https://github.com/PerpperQAQ/vibe-coding-review)
 
 **内容处理**　[ASR](https://github.com/PerpperQAQ/video-transcript) · [内容处理](https://github.com/PerpperQAQ/video-transcript)
 
